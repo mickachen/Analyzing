@@ -1,3 +1,4 @@
 # Analyzing
 Analyzing Everything
-链接 tywli https://www.zhihu.com/question/40633356
+# tyw 热身
+链接  https://www.zhihu.com/question/40633356
